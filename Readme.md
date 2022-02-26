@@ -1,4 +1,5 @@
 # excursion
+a small web application
 
 # Githubpage
 
