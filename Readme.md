@@ -1,5 +1,5 @@
 # excursion
 
-#Githubpage
+# Githubpage
 
 https://lwilman.github.io/excursion/
